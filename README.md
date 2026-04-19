@@ -1,4 +1,4 @@
-To run the game you will need to download and install Java version 11 or higher and install Apache Maven. 
+To run the game you will need to download and install Java JDK version 11 or higher and install Apache Maven. 
 
 Map of the game:
 
